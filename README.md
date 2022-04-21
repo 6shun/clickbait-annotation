@@ -15,12 +15,15 @@ This repo is structured as following:
 │                ├── train.txt
 │                ├── dev.txt
 │                └── test.txt                  
-├── doc                                 # Documentations
+├── doc                                 
 │    ├── guidelines                     # Annotation guidelines
 │    └── Model_analysis                 # Results and analysis
-├── notebook_data                       # Notesbooks for preprocessing data
-├── notebook_classifiers                # Notebook of various classifiers
-│    ├── LogReg                         # Logistic Regression
-│    └── BERT                           # BERT
+├── notebook_data_process               # Notesbooks for preprocessing data
+│    ├── AP1_preprocess.ipynb           # Cleaning raw data for annotation
+│    ├── AP2_annotate_data_to_txt.ipynb # Annotated data to txt files
+│    └── Data Validator.ipynb           # Validating Data for classifiers
+├── notebook_classifiers                
+│    ├── LogReg.ipynb                   # Logistic Regression
+│    └── BERT.ipynb                     # BERT
 └── README.md
 ```
