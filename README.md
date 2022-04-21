@@ -2,6 +2,8 @@
 Annotation Project for course INFO-259 with Prof.David Bamman, Spring 2022
 
 This repo is structured as following:
+
+```
 .
 ├── data                            
 │    ├── 1_raw_data.csv                 # Raw data
@@ -15,11 +17,10 @@ This repo is structured as following:
 │                └── test.txt                  
 ├── doc                                 # Documentations
 │    ├── guidelines                     # Annotation guidelines
-│    └── analysis                       # Results and analysis
+│    └── Model_analysis                 # Results and analysis
 ├── notebook_data                       # Notesbooks for preprocessing data
 ├── notebook_classifiers                # Notebook of various classifiers
-│    ├── LogReg
-│    ├── OrdinalRegression
-│    ├── BERT
-│    └── LogReg_edit
+│    ├── LogReg                         # Logistic Regression
+│    └── BERT                           # BERT
 └── README.md
+```
