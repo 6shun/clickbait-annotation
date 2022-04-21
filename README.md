@@ -1,5 +1,5 @@
 # Annotation Project on Click-baiting YouTube titles
-Annotation Project for course INFO-259 with Prof.David Bamman, Spring 2022
+Annotation Project for course INFO-259 at UC Berkeley with Prof. David Bamman, Spring 2022
 - [Annotation Guidelines](https://github.com/6shun/Annotation_Project/blob/main/docs/guidelines.pdf)
 - [Models](https://github.com/6shun/Annotation_Project/tree/main/notebook_classifiers)
 - [Model Analysis](https://github.com/6shun/Annotation_Project/blob/main/docs/Model_Analysis.pdf)
