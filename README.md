@@ -21,7 +21,7 @@ This repo is structured as following:
 │                └── test.txt                  
 ├── docs                                 
 │    ├── guidelines                     # Annotation guidelines
-│    ├── guidelines_feedback.md         # Peers feedback
+│    ├── guidelines_feedback.md         # Feedback: peers & instructor
 │    └── Model_analysis                 # Results and analysis
 ├── notebook_data_process               # Notesbooks for preprocessing data
 │    ├── AP1_preprocess.ipynb           # Cleaning raw data for annotation

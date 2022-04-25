@@ -1,5 +1,6 @@
 # Annotation Feedback for Detecting Click-Bait Videos
 
+## Peer feedback
 I read the guidelines prior to looking at the data to see if they would truly prepare me to annotate the 100 units accurately, and these guidelines did just that. The examples provided in the guidelines were great indicators of what to expect and what techniques click-bait title authors employ. I felt extremely prepared and well versed in detecting click-baity titles according to the set of guidelines given, as well as their instruction to keep in mind a holistic and human approach to detecting when one feels lured in (baited). I believe that these guidelines are comprehensive and digestible enough for them to be released and used by the majority of human audiences, general to the average Western consumer of social media and Youtube; the guideline was listed and labeled in a way that defined the technique definition and followed up with several examples of its application to titles. 
 
 There were times in the data where I felt a bit unsure about whether to label the individual data as true or false and what the approach was during bordering moments, so I feel that this was one part the guidelines could have elaborated a bit more on. The extensive information about how video genres can help determine if the video title contains click-bait was useful in my situations of borderline moments, so I was not completely left out in the dark. I would suggest that the data should be divided into 0/1/2 in terms of level of click bait, because I think that the polarity of the yes/no option leaves out the middle ground of some titles that potentially sound more pretentious and “bait-y” in nature. These guidelines were great and very useful!
@@ -27,3 +28,9 @@ Additionally, it might be helpful to add more instructions in regards to how to 
 
 
 Some additional small notes would be including hashtags as one of the lightly suspicious behaviors, as they seemed to come up a couple of times in the data. Finally, the pie chart on page 7 is hard to read, so either increasing the size of the graph or grouping some of the labels together into an “other” or “two labels” category to decrease the amount of text.
+
+<br>
+
+
+## Instructor Feedback
+great job on this assignment! here are some some pointers: you should have provided a few more edge cases to help annotators disambiguate in fuzzy situations, and should have explicitly defined "not clickbait" (may not be as obvious to some annotators!).
