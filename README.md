@@ -19,8 +19,9 @@ This repo is structured as following:
 │                ├── train.txt
 │                ├── dev.txt
 │                └── test.txt                  
-├── doc                                 
+├── docs                                 
 │    ├── guidelines                     # Annotation guidelines
+│    ├── guidelines_feedback.md         # Peers feedback
 │    └── Model_analysis                 # Results and analysis
 ├── notebook_data_process               # Notesbooks for preprocessing data
 │    ├── AP1_preprocess.ipynb           # Cleaning raw data for annotation
